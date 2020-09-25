@@ -10,9 +10,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Android-CandyCodedApplication.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/DetailActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/DetailActivity.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/SettingsActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/SettingsActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_detail.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_detail.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_info.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_info.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/test/java/com/pluralsight/candycoded/_1_StartTheStoreInformationActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/test/java/com/pluralsight/candycoded/_1_StartTheStoreInformationActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/test/java/com/pluralsight/candycoded/_2_StartTheGoogleMapsActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/test/java/com/pluralsight/candycoded/_2_StartTheGoogleMapsActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/test/java/com/pluralsight/candycoded/_3_StartThePhoneActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/test/java/com/pluralsight/candycoded/_3_StartThePhoneActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/test/java/com/pluralsight/candycoded/_4_ShareACandyWithAnIntent.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/test/java/com/pluralsight/candycoded/_4_ShareACandyWithAnIntent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,17 +55,17 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
-    <option name="width" value="1280" />
-    <option name="height" value="800" />
-  </component>
   <component name="ProjectId" id="1i1Fi1ogMFfyGx8Iqa1bDmircoR" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="Pixel_3_XL_API_29" />
     <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2019-10-31T14:03:56.773Z" />
@@ -63,7 +76,7 @@
     <property name="show.do.not.ask.upgrade.gradle.version" value="5.4.1" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
-  <component name="RunManager" selected="Android JUnit.com.pluralsight.candycoded in app">
+  <component name="RunManager" selected="Android App.app">
     <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
       <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
@@ -156,26 +169,33 @@
     </task>
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="444" y="22" key="#com.intellij.ide.util.MemberChooser" timestamp="1601071090433">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="444" y="22" key="#com.intellij.ide.util.MemberChooser/0.0.1366.738@0.0.1366.738" timestamp="1601071090433" />
-    <state width="1308" height="270" key="GridCell.Tab.0.bottom" timestamp="1601071683267">
+    <state x="413" y="46" key="FileChooserDialogImpl" timestamp="1601072206327">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1308" height="270" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1601071683267" />
-    <state width="1308" height="270" key="GridCell.Tab.0.center" timestamp="1601071683266">
+    <state x="413" y="46" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1601072206327" />
+    <state width="1308" height="270" key="GridCell.Tab.0.bottom" timestamp="1601072023083">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1308" height="270" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1601071683266" />
-    <state width="1308" height="270" key="GridCell.Tab.0.left" timestamp="1601071683266">
+    <state width="1308" height="270" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1601072023083" />
+    <state width="1308" height="270" key="GridCell.Tab.0.center" timestamp="1601072023082">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1308" height="270" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1601071683266" />
-    <state width="1308" height="270" key="GridCell.Tab.0.right" timestamp="1601071683267">
+    <state width="1308" height="270" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1601072023082" />
+    <state width="1308" height="270" key="GridCell.Tab.0.left" timestamp="1601072023081">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1308" height="270" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1601071683267" />
+    <state width="1308" height="270" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1601072023081" />
+    <state width="1308" height="270" key="GridCell.Tab.0.right" timestamp="1601072023082">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1308" height="270" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1601072023082" />
   </component>
 </project>
