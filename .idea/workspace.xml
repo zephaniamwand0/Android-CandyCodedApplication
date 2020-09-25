@@ -1,21 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
   <component name="AndroidLogFilters">
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="04733339AG137715" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -162,21 +165,21 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="444" y="22" key="#com.intellij.ide.util.MemberChooser/0.0.1366.738@0.0.1366.738" timestamp="1601069254125" />
-    <state width="1308" height="270" key="GridCell.Tab.0.bottom" timestamp="1601068689121">
+    <state width="1308" height="270" key="GridCell.Tab.0.bottom" timestamp="1601069558199">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1308" height="270" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1601068689121" />
-    <state width="1308" height="270" key="GridCell.Tab.0.center" timestamp="1601068689119">
+    <state width="1308" height="270" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1601069558199" />
+    <state width="1308" height="270" key="GridCell.Tab.0.center" timestamp="1601069558196">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1308" height="270" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1601068689119" />
-    <state width="1308" height="270" key="GridCell.Tab.0.left" timestamp="1601068689117">
+    <state width="1308" height="270" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1601069558196" />
+    <state width="1308" height="270" key="GridCell.Tab.0.left" timestamp="1601069558196">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1308" height="270" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1601068689117" />
-    <state width="1308" height="270" key="GridCell.Tab.0.right" timestamp="1601068689120">
+    <state width="1308" height="270" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1601069558196" />
+    <state width="1308" height="270" key="GridCell.Tab.0.right" timestamp="1601069558198">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1308" height="270" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1601068689120" />
+    <state width="1308" height="270" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1601069558198" />
   </component>
 </project>
